@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+body{
+    font-family: futura;
+    padding:2rem;
+}
+
+p{
+    margin:1rem;
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 1rem;
+}
+
+span{
+    color:orangered;
+    margin:0 0.5rem;
+}
+
+.button{
+    background-color: orangered;
+    color:white;
+    width:128px;
+    padding:0.5rem;
+    text-align: center;
+    letter-spacing: 1px;
+    user-select: none;
+    cursor: pointer;
+}
+
+.data{
+    height:6rem;
+}
+
+.remove{
+    display:none;
+}

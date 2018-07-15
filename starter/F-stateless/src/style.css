@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+  font-family: arial;
+  color:darkslategrey;
+  font-size:1rem;
+  margin:1rem;
+}
+
+h2{
+    text-align: center;
+    margin:1rem;
+}
+
+.book{
+    border:1px solid grey;
+    padding:10px;
+    margin:4px auto;
+    width:256px;
+}
+
+p, h4{
+    padding:4px 0;
+}

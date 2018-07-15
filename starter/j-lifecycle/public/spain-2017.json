@@ -1,0 +1,4 @@
+[
+	{ "image":"sevilla.jpg", "name":"Sevilla", "region":"Andalusia", "popl":1.2, "temp":94,"id":"1002" },
+	{ "image":"barcelona.jpg", "name":"Barcelona", "region":"Catalonia", "popl":4.0, "temp":86,"id":"1052" }
+]

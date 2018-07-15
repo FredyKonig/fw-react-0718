@@ -1,0 +1,27 @@
+body{
+	font-family: lato;
+	text-align: center;
+	font-size: 1.25rem;
+	color:darkslategrey;
+	margin:0.5rem auto;
+}
+
+.shelf{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+p{
+  padding:1rem;
+  border:1px solid lightgrey;
+  margin:0.5rem;
+  text-align: center;
+  cursor: pointer;
+}
+
+.basket{
+	background-color: beige;
+  	color:brown;
+}
